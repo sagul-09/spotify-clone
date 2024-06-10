@@ -20,11 +20,11 @@ const Player = () => {
             <img className='w-4 cursor-pointer' src={assets.loop_icon} alt="" />
         </div>
         <div className="flex items-center g-5 ">
-            <p className='p-2'>1:06</p>
+            <p className='px-2'>1:06</p>
             <div className="w-[60vw] max-w-[500px] bg-grey-300 rounded-full cursor-pointer">
                 <hr className='h-1 border-none w-0 bg-green-800 rounded-full' />
             </div>
-            <p className='p-2'>3:20</p>
+            <p className='px-2'>3:20</p>
         </div>
     </div>
     <div className="hidden lg:flex items-center gap-2 opacity">
